@@ -119,6 +119,9 @@ a:hover {
   color: rgba(255, 255, 255, 0.4);
 }
 
+/* Hero Actions */
+/* Removed download button styling because the download buttons are no longer in use */
+
 /* Page Header (sub-pages) */
 .page-header {
   background: linear-gradient(135deg, #002b5c 0%, #004481 100%);
@@ -137,6 +140,13 @@ a:hover {
   font-size: 1rem;
   color: rgba(255, 255, 255, 0.85);
 }
+
+/* Resume Content Styling */
+#resume-content {
+  background-color: white;
+}
+
+/* Removed duplicate resume header styles that were only used for DOCX-specific content */
 
 /* Main Content */
 main {
